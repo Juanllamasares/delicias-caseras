@@ -1,0 +1,13 @@
+.our-team{
+   text-align: center;
+    margin-bottom: 20px;
+}
+.our-team .container__flex{
+    
+}
+.our-team__title{
+    color: red
+    font-weight: bold;
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
